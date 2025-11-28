@@ -1,4 +1,4 @@
-# Multimodal intelligent feeding decision-making method based on fish social behavior cognition in recirculating aquaculture system
+# MMCDMN: A Multimodal Cognitive Decision-Making Network for Intelligent Feeding in Recirculating Aquaculture Systems
 
 Implementation of paper - Review stage
 
@@ -14,14 +14,14 @@ Implementation of paper - Review stage
   Clone Repository
 ```bash
 git clone 
-cd FASM
+cd MMCDMN
 ```
 
   Create Python Virtual Environment
 ```bash
-python -m venv FASM
-source FASM/bin/activate  # Linux
-# or FASM\Scripts\activate  # Windows
+python -m venv MMCDMN
+source MMCDMN/bin/activate  # Linux
+# or MMCDMN\Scripts\activate  # Windows
 ```
 
   Install Dependencies
