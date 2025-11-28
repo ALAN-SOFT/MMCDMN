@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ## Training
 
-Data preparation
+Data preparation: https://github.com/ALAN-SOFT/Demonstration-Dataset
 git clone 
 
 
